@@ -1,4 +1,4 @@
-# Anirudh
+# Image App
 
 A new Flutter project.
 
